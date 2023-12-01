@@ -1,4 +1,3 @@
-TV
 ABN China,
 https://rtmp2.abnvideos.com/hls/abnchina.m3u8
 Angel TV Chinese,
